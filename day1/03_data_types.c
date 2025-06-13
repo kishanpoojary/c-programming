@@ -6,4 +6,3 @@ int main(){
     printf("the output of this program is %d", a);
     return 0;
 }
-
